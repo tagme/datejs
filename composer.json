@@ -1,0 +1,21 @@
+{
+  "name": "abritinthebay/datejs",
+  "description": "DateJS is the most full-featured, internationalized, open-source JavaScript Date Library.",
+  "keywords": ["javascript","date","format","parse","calculate"],
+  "homepage": "https://github.com/abritinthebay/datejs",
+  "authors": [
+    {
+      "name": "abritinthebay",
+      "homepage": "https://github.com/abritinthebay"
+    },
+    {
+      "name": "Alan Tus",
+      "homepage": "https://github.com/atus"
+    },
+    {
+      "name": "Geoffrey McGill",
+      "homepage": "http://www.datejs.com/"
+    }
+  ],
+  "license": ["MIT"]
+}
